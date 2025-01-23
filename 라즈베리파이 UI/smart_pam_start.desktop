@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=sdmartporm_start
+Type=Application
+Path=/home/jung
+Icon=/home/jung/icons/smartfarm.png
+Exec=bash /home/jung/run_script.sh
+Terminal=true

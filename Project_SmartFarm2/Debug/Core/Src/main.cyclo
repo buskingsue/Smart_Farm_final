@@ -1,0 +1,9 @@
+../Core/Src/main.c:51:1:__io_putchar	1
+../Core/Src/main.c:92:6:Command	8
+../Core/Src/main.c:158:6:updateLCD	1
+../Core/Src/main.c:176:6:DHT_Reset	1
+../Core/Src/main.c:183:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:192:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:239:5:main	2
+../Core/Src/main.c:374:6:SystemClock_Config	3
+../Core/Src/main.c:425:6:Error_Handler	1
