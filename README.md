@@ -13,5 +13,5 @@
 - `HC-06` 블루투스 모듈
 - 
 ### 3. 동작 영상
-- 
+-  https://www.instagram.com/reel/DFKBKrtoJxT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
 
